@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Sir-LVL/CRUD-com-NodeJS/issues"
   },
-  "homepage": "https://github.com/Sir-LVL/CRUD-com-NodeJS#readme"
+  "homepage": "https://github.com/Sir-LVL/CRUD-com-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }

@@ -4,7 +4,7 @@ const port = 3000;
 const rota = require("./rotas/index");
 const router = require('./rotas/atedimentorotas');
 
-router(app);
+rota(app);
 
 app.listen(port, (error) => {
     if(error) {
